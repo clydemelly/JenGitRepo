@@ -14,7 +14,7 @@ public class JenGitProjApplication {
 	
 	@RequestMapping("/")
     String home() {
-        return "Hello World Git Jenkins Spring Boot!!";
+        return "Hello World Git Jenkins Spring Boot!!!";
     }
 
 	public static void main(String[] args) {
